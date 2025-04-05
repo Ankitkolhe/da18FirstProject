@@ -1,1 +1,4 @@
 ankit
+ git config --global user.email ankyakolhe@gmail.com
+  git config --global user.name Ankitkolhe
+nbn
